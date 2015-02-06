@@ -1,0 +1,48 @@
+---
+# Main CSS Styles: all styles are compiled to this file
+---
+
+@import "template";
+
+/* Custom Styles */
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: Raleway;
+}
+
+code {
+  font-family: 'Source Code Pro';
+}
+
+.page-header h1 {
+  margin-bottom: 10px;
+}
+
+header.site-header {
+  background: #fff;
+  
+  a {
+    font-family: Raleway;
+    font-weight: 700;
+    color: #000;
+  }
+}
+
+#mobile-menu-icon {
+  fill: #000;
+}
+
+
+header.site-header .site-menu-mobile ul {
+  li {
+    border-top: 1px #bfbfbf solid; 
+  }
+  
+  a:last-child li {
+    border-bottom: 1px #bfbfbf solid;
+  }
+}

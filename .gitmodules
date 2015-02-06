@@ -1,0 +1,4 @@
+[submodule "automated-testing-playbook"]
+	path = automated-testing-playbook
+	url = https://github.com/18F/automated-testing-playbook.git
+	branch = master

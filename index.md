@@ -3,6 +3,9 @@ title: 18F Guides
 subtitle: Learn how to deliver digital services in government with an agile, user-centered, and multidisciplinary team.
 ---
 
+To create a new 18F Guide, or to update an existing guide to the 18F Guide format,
+see the [18F Guides Template](http://18f.github.io/guides-template).
+
 ## All Guides
 
 [Accessibility](http://18f.github.io/accessibility)

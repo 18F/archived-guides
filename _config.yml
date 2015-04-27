@@ -3,7 +3,7 @@ title: 18F Guides
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to 18F Guides!
 baseurl: "/guides"
-url: "https://18f.github.io"
+url: "https://pages.18f.gov"
 
 # Header
 header:

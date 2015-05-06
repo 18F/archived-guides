@@ -7,10 +7,10 @@ To create a new 18F Guide, or to update an existing guide to the 18F Guide forma
 
 ## All Guides
 
-[Accessibility](http://18f.github.io/accessibility)
-[Agile](http://18f.github.io/agile)
+[Accessibility](/accessibility)
+[Agile](/agile)
 [APIs](https://github.com/18f/api-standards)
-[Automated Testing Cookbook](http://18f.github.io/testing-cookbook)
-[Automated Testing Playbook](https://pages.18f.gov/automated-testing-playbook/)
-[Grouplets](https://pages.18f.gov/grouplet-playbook/)
+[Automated Testing Cookbook](/testing-cookbook)
+[Automated Testing Playbook](/automated-testing-playbook)
+[Grouplets](/grouplet-playbook)
 [Open Source](https://github.com/18F/open-source-policy)

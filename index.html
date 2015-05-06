@@ -1,3 +1,20 @@
+---
+guides:
+  - title: Accessibility
+    link: /accessibility
+  - title: Agile
+    link: /agile
+  - title: APIs
+    link: https://github.com/18f/api-standards
+  - title: Automated Testing Cookbook
+    link: /testing-cookbook
+  - title: Automated Testing Playbook
+    link: /automated-testing-playbook
+  - title: Grouplets
+    link: /grouplet-playbook
+  - title: Open Source
+    link: https://github.com/18F/open-source-policy
+---
 <!DOCTYPE html>
 <html lang='en'>
 
@@ -38,20 +55,11 @@
   <p class="intro"></p>
   <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
   <nav class="sidebar-nav" role="navigation">
-    <ul>
- 
+    <ul>{% for guide in page.guides %} 
           <li>
-            <a href="https://github.com/18F/pages/">GitHub Repository</a>
+            <a href="{{guide.url}}">{{guide.title}}</a>
           </li>
-
-          <li>
-            <a href="/guides/">18F Guides</a>
-          </li>
-
-          <li>
-            <a href="/guides-template/">Guides Template</a>
-          </li>
-    </ul>
+{% endfor %}</ul>
   </nav>
 </aside>
 
@@ -62,19 +70,6 @@
 <h1>18F Guides</h1>
 
 <p>To create a new 18F Guide, or to update an existing guide to the 18F Guide format, see the <a href="https://pages.18f.gov/guides-template/">18F Guides Template</a>.</p>
-
-<h2>All Guides</h2>
-
-<a href="accessibility">Accessibility</a>
-<a href="agile">Agile</a>
-<a href="https://github.com/18f/api-standards">APIs</a>
-<a href="/testing-cookbook">Automated Testing Cookbook</a>
-<a href="/automated-testing-playbook">Automated Testing Playbook</a>
-<a href="/grouplet-playbook">Grouplets</a>
-<a href="https://github.com/18F/open-source-policy">Open Source</a>
-<a href=""></a>
-
-
         </section>
 
       </div><!-- /.wrap content -->

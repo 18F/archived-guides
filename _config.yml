@@ -1,0 +1,8 @@
+baseurl: /guides
+markdown: redcarpet
+name: 18F Guides
+exclude:
+- Gemfile
+- Gemfile.lock
+- README.md
+- LICENSE.md

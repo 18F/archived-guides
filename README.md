@@ -1,5 +1,3 @@
 # 18F Guides
 
-[The 18F Guides microsite »](http://18f.github.io/guides/)
-
-Uses [this template »](http://github.com/blacktm/standard-jekyll-template)
+[View 18F Guides »](http://pages.18f.gov/guides/)

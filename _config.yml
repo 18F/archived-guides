@@ -6,3 +6,5 @@ exclude:
 - Gemfile.lock
 - README.md
 - LICENSE.md
+
+google_analytics_ua: UA-48605964-19

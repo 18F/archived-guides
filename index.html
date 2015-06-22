@@ -2,6 +2,8 @@
 guides:
   - title: Accessibility
     url: /accessibility
+  - title: Analytics
+    url: https://github.com/18F/analytics-standards
   - title: Agile
     url: /agile
   - title: APIs
@@ -45,12 +47,12 @@ guides:
       <header role="banner">
 
         <div class="wrap">
-          
+
             <img class="logo" src="/guides-template/assets/img/18f-logo.png" alt="18F logo" width="75px">
-          
+
           <h1 class="site-title"><a class="title-link" href="/">18F Guides</a></h1>
         </div>
-        
+
       </header>
 
       <div class="wrap content">
@@ -59,7 +61,7 @@ guides:
   <p class="intro"></p>
   <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
   <nav class="sidebar-nav" role="navigation">
-    <ul>{% for guide in page.guides %} 
+    <ul>{% for guide in page.guides %}
           <li>
             <a href="{{guide.url}}">{{guide.title}}</a>
           </li>

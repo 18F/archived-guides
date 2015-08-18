@@ -7,4 +7,49 @@ exclude:
 - README.md
 - LICENSE.md
 
+navigation:
+- text: Accessibility
+  url: /accessibility
+- text: Analytics
+  url: https://github.com/18F/analytics-standards
+- text: Agile
+  url: /agile
+- text: APIs
+  url: https://github.com/18f/api-standards
+- text: Automated Testing Cookbook
+  url: /testing-cookbook
+- text: Automated Testing Playbook
+  url: /automated-testing-playbook
+- text: Before You Ship
+  url: /before-you-ship
+- text: Content
+  url: /content-guide
+- text: Design Methods
+  url: https://methods.18f.gov/
+- text: Federalist Content Guide
+  url: /federalist-content-guide
+- text: Frontend
+  url: /frontend
+- text: Grouplets
+  url: /grouplet-playbook
+- text: Guides Template
+  url: /guides-template
+- text: Open Source
+  url: /open-source-guide
+
 google_analytics_ua: UA-48605964-19
+
+# To use the shared 18F Guides styles when deploying to pages.18f.gov,
+# uncomment the following; comment it out during local development:
+asset_root: /guides-template
+
+back_link:
+  url: "https://pages.18f.gov/"
+  text: Read more 18F Pages
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "guides_style_18f_default"

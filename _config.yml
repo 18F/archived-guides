@@ -34,6 +34,8 @@ navigation:
   url: /grouplet-playbook
 - text: Guides Template
   url: /guides-template
+- text: Joining 18F!
+  url: /joining-18f
 - text: Open Source
   url: /open-source-guide
 

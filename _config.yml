@@ -16,13 +16,13 @@ navigation:
   url: /agile
 - text: APIs
   url: https://github.com/18f/api-standards
-- text: Automated Testing Cookbook
+- text: Testing Cookbook
   url: /testing-cookbook
 - text: Automated Testing Playbook
   url: /automated-testing-playbook
 - text: Before You Ship
   url: /before-you-ship
-- text: Content
+- text: Content Guide
   url: /content-guide
 - text: Design Methods
   url: https://methods.18f.gov/
@@ -30,7 +30,7 @@ navigation:
   url: /federalist-content-guide
 - text: Frontend
   url: /frontend
-- text: Grouplets
+- text: Grouplet Playbook
   url: /grouplet-playbook
 - text: Guides Template
   url: /guides-template
@@ -38,7 +38,7 @@ navigation:
   url: /iaa-forms
 - text: Joining 18F!
   url: /joining-18f
-- text: Open Source
+- text: Open Source Guide
   url: /open-source-guide
 
 google_analytics_ua: UA-48605964-19

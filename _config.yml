@@ -26,6 +26,8 @@ navigation:
   url: /content-guide
 - text: Design Methods
   url: https://methods.18f.gov/
+- text: Development Environment Guide
+  url: https://pages.18f.gov/dev-environment/
 - text: Federalist Content Guide
   url: /federalist-content-guide
 - text: Frontend

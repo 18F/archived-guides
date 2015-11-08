@@ -9,7 +9,7 @@ exclude:
 
 navigation:
 - text: "18F Delivery: Partnership Playbook"
-  url: /Partnership-Playbook
+  url: /partnership-playbook
 - text: Accessibility
   url: /accessibility
 - text: Analytics

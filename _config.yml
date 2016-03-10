@@ -8,8 +8,6 @@ exclude:
 - LICENSE.md
 
 navigation:
-- text: "18F Delivery: Partnership Playbook"
-  url: /partnership-playbook
 - text: Accessibility
   url: /accessibility
 - text: Analytics
@@ -46,6 +44,8 @@ navigation:
   url: /lean-product-design
 - text: Open Source Guide
   url: /open-source-guide
+ - text: "Partnership Playbook"
+  url: /partnership-playbook
 
 
 google_analytics_ua: UA-48605964-19

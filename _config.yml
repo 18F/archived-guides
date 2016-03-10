@@ -30,8 +30,8 @@ navigation:
   url: https://methods.18f.gov/
 - text: Development Environment Guide
   url: https://pages.18f.gov/dev-environment/
-- text: Federalist Content Guide
-  url: /federalist-content-guide
+- text: Federalist Documentation
+  url: https://federalist-docs.18f.gov
 - text: Frontend
   url: /frontend
 - text: Grouplet Playbook

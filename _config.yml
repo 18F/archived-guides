@@ -22,6 +22,8 @@ navigation:
   url: /automated-testing-playbook
 - text: Before You Ship
   url: /before-you-ship
+- text: Blogging
+  url: /blogging-guide/
 - text: Content Guide
   url: /content-guide
 - text: Design Methods
@@ -46,6 +48,8 @@ navigation:
   url: /open-source-guide
 - text: Partnership Playbook
   url: /partnership-playbook
+- text: Writing Lab
+  url: /writing-lab-guide
 
 
 google_analytics_ua: UA-48605964-19

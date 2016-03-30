@@ -48,6 +48,8 @@ navigation:
   url: /open-source-guide
 - text: Partnership Playbook
   url: /partnership-playbook
+- text: Product
+  url: /product-guide/
 - text: Writing Lab
   url: /writing-lab-guide
 

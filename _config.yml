@@ -46,6 +46,8 @@ navigation:
   url: /open-source-guide
 - text: Partnership Playbook
   url: /partnership-playbook
+- text: Product Guide
+  url: /product-guide
 
 
 google_analytics_ua: UA-48605964-19

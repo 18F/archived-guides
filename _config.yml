@@ -23,7 +23,7 @@ navigation:
 - text: Before You Ship
   url: /before-you-ship
 - text: Blogging
-  url: /blogging-guide/
+  url: /blogging-guide
 - text: Content Guide
   url: /content-guide
 - text: Design Methods
@@ -49,7 +49,7 @@ navigation:
 - text: Partnership Playbook
   url: /partnership-playbook
 - text: Product
-  url: /product-guide/
+  url: /product-guide
 - text: Writing Lab
   url: /writing-lab-guide
 

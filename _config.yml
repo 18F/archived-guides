@@ -61,10 +61,6 @@ repos:
   description: 18F Guides GitHub repository
   url: https://github.com/18F/guides
 
-# To use the shared 18F Guides styles when deploying to pages.18f.gov,
-# uncomment the following; comment it out during local development:
-asset_root: /guides-template
-
 back_link:
   url: "https://pages.18f.gov/"
   text: Read more 18F Pages

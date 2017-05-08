@@ -1,4 +1,3 @@
-baseurl: /guides
 markdown: redcarpet
 name: 18F Guides
 exclude:
@@ -9,23 +8,23 @@ exclude:
 
 navigation:
 - text: Accessibility
-  url: /accessibility
+  url: https://pages.18f.gov/accessibility
 - text: Analytics
   url: https://github.com/18F/analytics-standards
 - text: Agile
-  url: /agile
+  url: https://agile.18f.gov
 - text: APIs
   url: https://github.com/18f/api-standards
 - text: Testing Cookbook
-  url: /testing-cookbook
+  url: https://pages.18f.gov/testing-cookbook
 - text: Automated Testing Playbook
-  url: /automated-testing-playbook
+  url: https://pages.18f.gov/automated-testing-playbook
 - text: Before You Ship
-  url: /before-you-ship
+  url: https://pages.18f.gov/before-you-ship
 - text: Blogging
-  url: /blogging-guide
+  url: https://pages.18f.gov/blogging-guide
 - text: Content Guide
-  url: /content-guide
+  url: https://pages.18f.gov/content-guide
 - text: Design Methods
   url: https://methods.18f.gov/
 - text: Development Environment Guide
@@ -33,25 +32,25 @@ navigation:
 - text: Federalist Documentation
   url: https://federalist-docs.18f.gov
 - text: Frontend
-  url: /frontend
+  url: https://pages.18f.gov/frontend
 - text: Grouplet Playbook
-  url: /grouplet-playbook
+  url: https://pages.18f.gov/grouplet-playbook
 - text: Guides Template
-  url: /guides-template
+  url: https://pages.18f.gov/guides-template
 - text: Inter-Agency Agreements with 18F
-  url: /iaa-forms
+  url: https://pages.18f.gov/iaa-forms
 - text: Joining 18F!
-  url: /joining-18f
+  url: https://pages.18f.gov/joining-18f
 - text: Lean Product Design
-  url: /lean-product-design
+  url: https://pages.18f.gov/lean-product-design
 - text: Open Source Guide
-  url: /open-source-guide
+  url: https://pages.18f.gov/open-source-guide
 - text: Partnership Playbook
-  url: /partnership-playbook
+  url: https://pages.18f.gov/partnership-playbook
 - text: Product
-  url: /product-guide
+  url: https://pages.18f.gov/product-guide
 - text: Writing Lab
-  url: /writing-lab-guide
+  url: https://pages.18f.gov/writing-lab-guide
 
 
 google_analytics_ua: UA-48605964-19
@@ -62,8 +61,8 @@ repos:
   url: https://github.com/18F/guides
 
 back_link:
-  url: "https://pages.18f.gov/"
-  text: Read more 18F Pages
+  url: "https://18f.gsa.gov/"
+  text: Back to 18F Homepage
 
 defaults:
   -

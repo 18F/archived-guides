@@ -6,6 +6,10 @@ exclude:
 - README.md
 - LICENSE.md
 
+author:
+  name: 18F
+  url: https://18f.gsa.gov
+
 navigation:
 - text: Accessibility
   url: https://accessibility.18f.gov

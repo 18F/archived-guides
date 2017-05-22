@@ -8,7 +8,7 @@ exclude:
 
 navigation:
 - text: Accessibility
-  url: https://pages.18f.gov/accessibility
+  url: https://accessibility.18f.gov
 - text: Analytics
   url: https://github.com/18F/analytics-standards
 - text: Agile
@@ -16,41 +16,39 @@ navigation:
 - text: APIs
   url: https://github.com/18f/api-standards
 - text: Testing Cookbook
-  url: https://pages.18f.gov/testing-cookbook
+  url: https://testing-cookbook.18f.gov
 - text: Automated Testing Playbook
-  url: https://pages.18f.gov/automated-testing-playbook
+  url: https://automated-testing-playbook.18f.gov
 - text: Before You Ship
-  url: https://pages.18f.gov/before-you-ship
+  url: https://before-you-ship.18f.gov
 - text: Blogging
-  url: https://pages.18f.gov/blogging-guide
+  url: https://blogging-guide.18f.gov
 - text: Content Guide
-  url: https://pages.18f.gov/content-guide
+  url: https://content-guide.18f.gov
 - text: Design Methods
-  url: https://methods.18f.gov/
-- text: Development Environment Guide
-  url: https://pages.18f.gov/dev-environment/
+  url: https://methods.18f.gov
 - text: Federalist Documentation
   url: https://federalist-docs.18f.gov
 - text: Frontend
-  url: https://pages.18f.gov/frontend
+  url: https://frontend.18f.gov
 - text: Grouplet Playbook
-  url: https://pages.18f.gov/grouplet-playbook
+  url: https://grouplet-playbook.18f.gov
 - text: Guides Template
-  url: https://pages.18f.gov/guides-template
+  url: https://guides-template.18f.gov
 - text: Inter-Agency Agreements with 18F
-  url: https://pages.18f.gov/iaa-forms
-- text: Joining 18F!
-  url: https://pages.18f.gov/joining-18f
+  url: https://iaa-forms.18f.gov
+- text: Joining 18F
+  url: https://18f.gsa.gov/join/
 - text: Lean Product Design
-  url: https://pages.18f.gov/lean-product-design
+  url: https://lean-product-design.18f.gov
 - text: Open Source Guide
-  url: https://pages.18f.gov/open-source-guide
+  url: https://open-source-guide.18f.gov
 - text: Partnership Playbook
-  url: https://pages.18f.gov/partnership-playbook
+  url: https://partnership-playbook.18f.gov
 - text: Product
-  url: https://pages.18f.gov/product-guide
+  url: https://product-guide.18f.gov
 - text: Writing Lab
-  url: https://pages.18f.gov/writing-lab-guide
+  url: https://writing-lab-guide.18f.gov
 
 
 google_analytics_ua: UA-48605964-19

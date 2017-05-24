@@ -76,6 +76,9 @@ back_link:
   url: "https://18f.gsa.gov/"
   text: Back to 18F Homepage
 
+# TODO: Update this to "master"
+default_branch: "18f-pages"
+
 defaults:
   -
     scope:

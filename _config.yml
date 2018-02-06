@@ -23,8 +23,6 @@ navigation:
   url: https://automated-testing-playbook.18f.gov
 - text: Before You Ship
   url: https://before-you-ship.18f.gov
-- text: Blogging
-  url: https://blogging-guide.18f.gov
 - text: Content Guide
   url: https://content-guide.18f.gov
 - text: Design Methods

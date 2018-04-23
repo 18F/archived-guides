@@ -1,4 +1,4 @@
-/Users/elainekamlley/.rvm/rubies/ruby-2.2.0/bin/ruby -r ./siteconf20180423-66713-nx88th.rb extconf.rb
+/Users/elainekamlley/.rvm/rubies/ruby-2.2.0/bin/ruby -r ./siteconf20180423-68206-1o46zv8.rb extconf.rb
 creating Makefile
 
 make "DESTDIR=" clean
@@ -66,4 +66,4 @@ compiling stack.c
 linking shared-object redcarpet.bundle
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 redcarpet.bundle ./.gem.20180423-66713-jn22so
+/usr/bin/install -c -m 0755 redcarpet.bundle ./.gem.20180423-68206-zz9zoz

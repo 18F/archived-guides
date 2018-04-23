@@ -1,4 +1,4 @@
-/Users/elainekamlley/.rvm/rubies/ruby-2.2.0/bin/ruby -r ./siteconf20180423-66713-7jns58.rb extconf.rb
+/Users/elainekamlley/.rvm/rubies/ruby-2.2.0/bin/ruby -r ./siteconf20180423-68206-svtpdb.rb extconf.rb
 creating Makefile
 
 make "DESTDIR=" clean
@@ -551,4 +551,4 @@ porter_wrap.c:30:39: warning: implicit conversion loses integer precision: 'unsi
 linking shared-object stemmer.bundle
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 stemmer.bundle ./.gem.20180423-66713-120h9mb
+/usr/bin/install -c -m 0755 stemmer.bundle ./.gem.20180423-68206-elh2jj

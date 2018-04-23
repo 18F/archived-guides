@@ -1,4 +1,4 @@
-/Users/elainekamlley/.rvm/rubies/ruby-2.2.0/bin/ruby -r ./siteconf20180423-66713-12e4f62.rb extconf.rb
+/Users/elainekamlley/.rvm/rubies/ruby-2.2.0/bin/ruby -r ./siteconf20180423-68206-1abmxws.rb extconf.rb
 creating Makefile
 
 make "DESTDIR=" clean
@@ -171,4 +171,4 @@ compiling yajl_version.c
 linking shared-object yajl/yajl.bundle
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 yajl.bundle ./.gem.20180423-66713-1rgg0ql/yajl
+/usr/bin/install -c -m 0755 yajl.bundle ./.gem.20180423-68206-q60wwt/yajl

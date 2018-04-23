@@ -1,4 +1,4 @@
-/Users/elainekamlley/.rvm/rubies/ruby-2.2.0/bin/ruby -r ./siteconf20180423-66713-xtm202.rb extconf.rb
+/Users/elainekamlley/.rvm/rubies/ruby-2.2.0/bin/ruby -r ./siteconf20180423-68206-2lla4.rb extconf.rb
 creating Makefile
 
 make "DESTDIR=" clean
@@ -13,4 +13,4 @@ compiling hitimes_stats.c
 linking shared-object hitimes/2.2/hitimes.bundle
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 hitimes.bundle ./.gem.20180423-66713-peq6sr/hitimes/2.2
+/usr/bin/install -c -m 0755 hitimes.bundle ./.gem.20180423-68206-xz1dep/hitimes/2.2

@@ -165,7 +165,7 @@ int t(void) { ffi_raw_call(); return 0; }
 1 warning generated.
 Undefined symbols for architecture x86_64:
   "_ffi_raw_call", referenced from:
-      _t in conftest-279f15.o
+      _t in conftest-2d5580.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -218,7 +218,7 @@ int t(void) { rb_thread_blocking_region(); return 0; }
 1 warning generated.
 Undefined symbols for architecture x86_64:
   "_rb_thread_blocking_region", referenced from:
-      _t in conftest-caf5a3.o
+      _t in conftest-9a3441.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -367,7 +367,7 @@ int t(void) { ffi_prep_cif_var(); return 0; }
 1 warning generated.
 Undefined symbols for architecture x86_64:
   "_ffi_prep_cif_var", referenced from:
-      _t in conftest-322871.o
+      _t in conftest-e66037.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:

@@ -1,4 +1,5 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     blankslate (2.1.2.4)
     celluloid (0.16.0)
@@ -65,7 +66,7 @@ GEM
       hitimes
     toml (0.1.2)
       parslet (~> 1.5.0)
-    yajl-ruby (1.2.1)
+    yajl-ruby (1.2.3)
 
 PLATFORMS
   ruby
@@ -73,6 +74,3 @@ PLATFORMS
 DEPENDENCIES
   guides_style_18f
   jekyll
-
-BUNDLED WITH
-   1.10.6

@@ -1,0 +1,16 @@
+/Users/elainekamlley/.rvm/rubies/ruby-2.2.0/bin/ruby -r ./siteconf20180423-66713-xtm202.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling hitimes.c
+compiling hitimes_instant_clock_gettime.c
+compiling hitimes_instant_osx.c
+compiling hitimes_instant_windows.c
+compiling hitimes_interval.c
+compiling hitimes_stats.c
+linking shared-object hitimes/2.2/hitimes.bundle
+
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 hitimes.bundle ./.gem.20180423-66713-peq6sr/hitimes/2.2

@@ -15,53 +15,16 @@ navigation:
   url: https://accessibility.18f.gov
 - text: Agile
   url: https://agile.18f.gov
-- text: Analytics
-  url: https://github.com/18F/analytics-standards
-- text: APIs
-  url: https://github.com/18f/api-standards
-- text: Automated Testing Playbook
-  url: https://automated-testing-playbook.18f.gov
-- text: Before You Ship
-  url: https://before-you-ship.18f.gov
 - text: Content Guide
   url: https://content-guide.18f.gov
 - text: Design Methods
   url: https://methods.18f.gov
 - text: Design Principles Guide
   url: https://design-principles-guide.18f.gov
-- text: Digital Acquisition Playbook
-  url: https://digital-acquisition-playbook.18f.gov
-- text: Digital Contracting Cookbook
-  url: https://contracting-cookbook.18f.gov
-- text: Federalist Documentation
-  url: https://federalist-docs.18f.gov
 - text: Front End
   url: https://frontend.18f.gov
-- text: Grouplet Playbook
-  url: https://grouplet-playbook.18f.gov
-- text: Guides Template
-  url: https://guides-template.18f.gov
-- text: Inter-Agency Agreements with 18F
-  url: https://iaa-forms.18f.gov
-- text: Joining 18F
-  url: https://18f.gsa.gov/join/
-- text: Lean Product Design
-  url: https://lean-product-design.18f.gov
-- text: Modular Contracting
-  url: http://modularcontracting.18f.gov
-- text: Open Source Guide
-  url: https://open-source-guide.18f.gov
-- text: Partnership Playbook
-  url: https://partnership-playbook.18f.gov
-- text: Plain Language Tutorial
-  url: https://plain-language-tutorial.18f.gov
 - text: Product
   url: https://product-guide.18f.gov
-- text: Testing Cookbook
-  url: https://testing-cookbook.18f.gov
-- text: Writing Lab
-  url: https://writing-lab-guide.18f.gov
-
 
 google_analytics_ua: UA-48605964-19
 
